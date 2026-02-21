@@ -2,6 +2,9 @@
 
 Uma página web moderna e elegante desenvolvida para o setor gastronômico, focada em apresentar serviços e cardápio com um design responsivo.
 
+Você pode visualizar o projeto em funcionamento através do link abaixo:
+**[Acessar Landing Page Restaurante](https://alexsandromartin.github.io/Landing_Page_Restaurante/)**
+
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi construído utilizando as tecnologias fundamentais do desenvolvimento web:
@@ -38,4 +41,4 @@ O projeto está organizado de forma modular para facilitar a manutenção e esca
 * [cite_start][x] **Interatividade**: Manipulação dinâmica via JavaScript para melhorar a experiência do usuário[cite: 3].
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por Alexsandro Martins.
